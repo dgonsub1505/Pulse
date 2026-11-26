@@ -1,0 +1,11 @@
+main {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: 4rem auto;
+}
+
+article {
+  padding: 2.5rem;
+  overflow: hidden;
+}
